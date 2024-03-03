@@ -1,0 +1,382 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Linen Beach Towel",
+      "feature": "hot deal",
+      "sizes": [
+        "24*48",
+        "36*54"
+      ],
+      "starRate": 4,
+      "price": 30,
+      "thumb": "/linen-beach.a0ee0973.png?1705639033209",
+      "images": [
+        "/linen-beach.a0ee0973.png?1705639033209",
+        "/linen-beach.a0ee0973.png?1705639033209",
+        "/linen-beach.a0ee0973.png?1705639033209"
+      ],
+      "colors": [
+        "#C4C4C4",
+        "#F2C94C"
+      ],
+      "product_type": "bathroom",
+      "concept": "conscious",
+      "description": "Twin duvet cover set in soft, woven fabric made from a Tencel™lyocell and cotton blend with a printed pattern. One pillowcase. Thread count 144."
+    },
+    {
+      "id": 1,
+      "name": "Square Clear Glass Box",
+      "feature": "hot deal",
+      "sizes": [
+        "24*48",
+        "36*54"
+      ],
+      "starRate": 3,
+      "price": 30,
+      "thumb": "/square-clear.bf910637.png?1705639602437",
+      "images": [
+        "/square-clear.bf910637.png?1705639602437",
+        "/square-clear.bf910637.png?1705639602437",
+        "/square-clear.bf910637.png?1705639602437"
+      ],
+      "colors": [
+        "#AD5B12",
+        "#C4C4C4"
+      ],
+      "product_type": "outdoor",
+      "concept": "premium quality",
+      "description": "Twin duvet cover set in soft, woven fabric made from a Tencel™lyocell and cotton blend with a printed pattern. One pillowcase. Thread count 144."
+    },
+    {
+      "id": 2,
+      "name": "4 pack Small Ceramic Plates",
+      "feature": "hot deal",
+      "sizes": [
+        "24*48",
+        "36*54"
+      ],
+      "starRate": 3,
+      "price": 30,
+      "thumb": "/4-pack-small.cfe948dd.png?1705639644271",
+      "images": [
+        "/4-pack-small.cfe948dd.png?1705639644271",
+        "/4-pack-small.cfe948dd.png?1705639644271",
+        "/4-pack-small.cfe948dd.png?1705639644271"
+      ],
+      "colors": [
+        "#C4C4C4"
+      ],
+      "product_type": "outdoor",
+      "concept": "conscious",
+      "description": "Twin duvet cover set in soft, woven fabric made from a Tencel™lyocell and cotton blend with a printed pattern. One pillowcase. Thread count 144."
+    },
+    {
+      "id": 3,
+      "name": "Large Clear Glass Box",
+      "feature": "hot deal",
+      "sizes": [
+        "24*48",
+        "36*54"
+      ],
+      "starRate": 4,
+      "price": 30,
+      "thumb": "/large-clear.01bd0292.png?1705639834465",
+      "images": [
+        "/large-clear.01bd0292.png?1705639834465",
+        "/large-clear.01bd0292.png?1705639834465",
+        "/large-clear.01bd0292.png?1705639834465"
+      ],
+      "colors": [
+        "#F2994A"
+      ],
+      "product_type": "outdoor",
+      "concept": "conscious",
+      "description": "Twin duvet cover set in soft, woven fabric made from a Tencel™lyocell and cotton blend with a printed pattern. One pillowcase. Thread count 144."
+    },
+    {
+      "id": 4,
+      "name": "Round Jute Placemat",
+      "feature": "hot deal",
+      "sizes": [
+        "24*48",
+        "36*54"
+      ],
+      "starRate": 4,
+      "price": 30,
+      "thumb": "/round-jute.92e63c9c.png?1705639958538",
+      "images": [
+        "/round-jute.92e63c9c.png?1705639958538",
+        "/round-jute.92e63c9c.png?1705639958538",
+        "/round-jute.92e63c9c.png?1705639958538"
+      ],
+      "colors": [
+        "#F2994A"
+      ],
+      "product_type": "living room",
+      "concept": "premium quality",
+      "description": "Twin duvet cover set in soft, woven fabric made from a Tencel™lyocell and cotton blend with a printed pattern. One pillowcase. Thread count 144."
+    },
+    {
+      "id": 5,
+      "name": "Metal Wire Basket",
+      "feature": "hot deal",
+      "sizes": [
+        "24*48",
+        "36*54"
+      ],
+      "starRate": 4,
+      "price": 30,
+      "thumb": "/metal-wire.d0d0476a.png?1705640034020",
+      "images": [
+        "/metal-wire.d0d0476a.png?1705640034020",
+        "/metal-wire.d0d0476a.png?1705640034020",
+        "/metal-wire.d0d0476a.png?1705640034020"
+      ],
+      "colors": [
+        "#C4C4C4"
+      ],
+      "product_type": "child room",
+      "concept": "premium quality",
+      "description": "Twin duvet cover set in soft, woven fabric made from a Tencel™lyocell and cotton blend with a printed pattern. One pillowcase. Thread count 144."
+    },
+    {
+      "id": 6,
+      "name": "Tray with Foot",
+      "feature": "top rating",
+      "sizes": [
+        "24*48",
+        "36*54"
+      ],
+      "starRate": 4,
+      "price": 30,
+      "thumb": "/tray.194f4bbc.png?1705640461476",
+      "images": [
+        "/tray.194f4bbc.png?1705640461476",
+        "/tray.194f4bbc.png?1705640461476",
+        "/tray.194f4bbc.png?1705640461476"
+      ],
+      "colors": [
+        "#F2994A"
+      ],
+      "product_type": "bathroom",
+      "concept": "conscious",
+      "description": "Twin duvet cover set in soft, woven fabric made from a Tencel™lyocell and cotton blend with a printed pattern. One pillowcase. Thread count 144."
+    },
+    {
+      "id": 7,
+      "name": "Twill Seat Cushion",
+      "feature": "top rating",
+      "sizes": [
+        "24*48",
+        "36*54"
+      ],
+      "starRate": 4,
+      "price": 30,
+      "thumb": "/twill-seat.ea9f4318.png?1705641186938",
+      "images": [
+        "/twill-seat.ea9f4318.png?1705641186938",
+        "/twill-seat.ea9f4318.png?1705641186938",
+        "/twill-seat.ea9f4318.png?1705641186938"
+      ],
+      "colors": [
+        "#6FCF97",
+        "#219653",
+        "#56CCF2"
+      ],
+      "product_type": "bedroom",
+      "concept": "conscious",
+      "description": "Twin duvet cover set in soft, woven fabric made from a Tencel™lyocell and cotton blend with a printed pattern. One pillowcase. Thread count 144."
+    },
+    {
+      "id": 8,
+      "name": "Fluted Beverage Glass",
+      "feature": "top rating",
+      "sizes": [
+        "24*48",
+        "36*54"
+      ],
+      "starRate": 4,
+      "price": 30,
+      "thumb": "/fluted-beverage.60bde51b.png?1705641456148",
+      "images": [
+        "/fluted-beverage.60bde51b.png?1705641456148",
+        "/fluted-beverage.60bde51b.png?1705641456148",
+        "/fluted-beverage.60bde51b.png?1705641456148"
+      ],
+      "colors": [
+        "#fff"
+      ],
+      "product_type": "living room",
+      "concept": "premium quality",
+      "description": "Twin duvet cover set in soft, woven fabric made from a Tencel™lyocell and cotton blend with a printed pattern. One pillowcase. Thread count 144."
+    },
+    {
+      "id": 9,
+      "name": "Ceramic Egg Cup",
+      "feature": "top rating",
+      "sizes": [
+        "24*48",
+        "36*54"
+      ],
+      "starRate": 4,
+      "price": 30,
+      "thumb": "/ceramic-egg.10aea88c.png?1705641562227",
+      "images": [
+        "/ceramic-egg.10aea88c.png?1705641562227",
+        "/ceramic-egg.10aea88c.png?1705641562227",
+        "/ceramic-egg.10aea88c.png?1705641562227"
+      ],
+      "colors": [
+        "#219653"
+      ],
+      "product_type": "outdoor",
+      "concept": "conscious",
+      "description": "Twin duvet cover set in soft, woven fabric made from a Tencel™lyocell and cotton blend with a printed pattern. One pillowcase. Thread count 144."
+    },
+    {
+      "id": 10,
+      "name": "Small Bamboo Box",
+      "feature": "top rating",
+      "sizes": [
+        "24*48",
+        "36*54"
+      ],
+      "starRate": 4,
+      "price": 30,
+      "thumb": "/small-bamboo.305805e8.png?1705641686895",
+      "images": [
+        "/small-bamboo.305805e8.png?1705641686895",
+        "/small-bamboo.305805e8.png?1705641686895",
+        "/small-bamboo.305805e8.png?1705641686895"
+      ],
+      "colors": [
+        "#F2C94C"
+      ],
+      "product_type": "bathroom",
+      "concept": "conscious",
+      "description": "Twin duvet cover set in soft, woven fabric made from a Tencel™lyocell and cotton blend with a printed pattern. One pillowcase. Thread count 144."
+    },
+    {
+      "id": 11,
+      "name": "Metal Cutlery Basket",
+      "feature": "top rating",
+      "sizes": [
+        "24*48",
+        "36*54"
+      ],
+      "starRate": 4,
+      "price": 30,
+      "thumb": "/metal-cutlery.383881e0.png?1705641741388",
+      "images": [
+        "/metal-cutlery.383881e0.png?1705641741388",
+        "/metal-cutlery.383881e0.png?1705641741388",
+        "/metal-cutlery.383881e0.png?1705641741388"
+      ],
+      "colors": [
+        "#C4C4C4"
+      ],
+      "product_type": "bathroom",
+      "concept": "premium quality",
+      "description": "Twin duvet cover set in soft, woven fabric made from a Tencel™lyocell and cotton blend with a printed pattern. One pillowcase. Thread count 144."
+    },
+    {
+      "id": 12,
+      "name": "4-pack Ceramic Cups",
+      "feature": "top rating",
+      "sizes": [
+        "24*48",
+        "36*54"
+      ],
+      "starRate": 4,
+      "price": 30,
+      "thumb": "/4-pack-ceramic.684ca684.png?1705641787105",
+      "images": [
+        "/4-pack-ceramic.684ca684.png?1705641787105",
+        "/4-pack-ceramic.684ca684.png?1705641787105",
+        "/4-pack-ceramic.684ca684.png?1705641787105"
+      ],
+      "colors": [
+        "#C4C4C4"
+      ],
+      "product_type": "bathroom",
+      "concept": "premium quality",
+      "description": "Twin duvet cover set in soft, woven fabric made from a Tencel™lyocell and cotton blend with a printed pattern. One pillowcase. Thread count 144."
+    },
+    {
+      "id": 13,
+      "name": "2-pack Linen Napkins",
+      "feature": "top rating",
+      "sizes": [
+        "24*48",
+        "36*54"
+      ],
+      "starRate": 4,
+      "price": 30,
+      "thumb": "/2-pack-linen.3abbfe2a.png?1705641871007",
+      "images": [
+        "/2-pack-linen.3abbfe2a.png?1705641871007",
+        "/2-pack-linen.3abbfe2a.png?1705641871007",
+        "/2-pack-linen.3abbfe2a.png?1705641871007"
+      ],
+      "colors": [
+        "#56CCF2"
+      ],
+      "product_type": "outdoor",
+      "concept": "conscious",
+      "description": "Twin duvet cover set in soft, woven fabric made from a Tencel™lyocell and cotton blend with a printed pattern. One pillowcase. Thread count 144."
+    },
+    {
+      "id": 12,
+      "name": "Glazed Stoneware Plate",
+      "feature": "top rating",
+      "sizes": [
+        "24*48",
+        "36*54"
+      ],
+      "starRate": 4,
+      "price": 30,
+      "thumb": "/glazed-stoneware.6aea40f5.png?1705641917385",
+      "images": [
+        "/glazed-stoneware.6aea40f5.png?1705641917385",
+        "/glazed-stoneware.6aea40f5.png?1705641917385",
+        "/glazed-stoneware.6aea40f5.png?1705641917385"
+      ],
+      "colors": [
+        "#F2C94C"
+      ],
+      "product_type": "bathroom",
+      "concept": "conscious",
+      "description": "Twin duvet cover set in soft, woven fabric made from a Tencel™lyocell and cotton blend with a printed pattern. One pillowcase. Thread count 144."
+    }
+  ],
+  "users": [
+    {
+      "id": 1706861586547,
+      "email": "email@gmail.com",
+      "password": "Dat@12345",
+      "bags": [
+        {
+          "id": 1708949182170,
+          "productId": 7,
+          "name": "Twill Seat Cushion",
+          "price": 30,
+          "quantity": 1,
+          "size": "36*54",
+          "thumb": "/twill-seat.ea9f4318.png?1705641186938",
+          "color": "#56CCF2"
+        },
+        {
+          "id": 1708949190957,
+          "productId": 2,
+          "name": "4 pack Small Ceramic Plates",
+          "price": 30,
+          "quantity": 1,
+          "size": "24*48",
+          "thumb": "/4-pack-small.cfe948dd.png?1705639644271",
+          "color": "#C4C4C4"
+        }
+      ]
+    }
+  ]
+}
